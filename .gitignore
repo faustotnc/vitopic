@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Other
+.DS_Store
+
+
+# Project-Specific
+processed_images_small.pkl
+processed_images.pkl
