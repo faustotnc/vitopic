@@ -133,5 +133,4 @@ dmypy.json
 
 
 # Project-Specific
-processed_images_small.pkl
 processed_images.pkl
