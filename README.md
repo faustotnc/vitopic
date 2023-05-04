@@ -19,7 +19,7 @@ Below are the general steps to generate context-guided visual topics:
 
 ![Full Model Pipeline](./docs/full-model-pipeline.jpg)
 
-For more information on how the methods, results, and evaluations, read the project's report in the "./docs/ViTopic – Report.pdf" file.
+For more information on how the methods, results, and evaluations, read the project's report in the `./docs/ViTopic – Report.pdf` file.
 
 ---
 Final Project for ITCS-5156 @ UNC Charlotte
